@@ -8,6 +8,14 @@ namespace TaxLibraryHomeworkTest
     [TestClass()]
     public class TaxHelperTests
     {
+        [TestMethod()]
+        public void GetTaxResultTest_Income_0_Tax_0()
+        {
+            decimal income = 0;
+            decimal actual = TaxHelper.GetTaxResult(income);
+            decimal expected = 0;
+            Assert.AreEqual(expected, actual);
+        }
 
         [TestMethod()]
         public void GetTaxResultTest_Income_100000_Tax_5000()
