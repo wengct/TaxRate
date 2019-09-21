@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxLibraryHomework", "TaxLibraryHomework\TaxLibraryHomework.csproj", "{A799804B-1942-4323-A595-55C0448ED8A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxLibraryHomeworkTest", "TaxLibraryHomeworkTest\TaxLibraryHomeworkTest.csproj", "{7F946CE9-3E56-4C70-B032-9FF27970EF64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A799804B-1942-4323-A595-55C0448ED8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A799804B-1942-4323-A595-55C0448ED8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A799804B-1942-4323-A595-55C0448ED8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A799804B-1942-4323-A595-55C0448ED8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F946CE9-3E56-4C70-B032-9FF27970EF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F946CE9-3E56-4C70-B032-9FF27970EF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F946CE9-3E56-4C70-B032-9FF27970EF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F946CE9-3E56-4C70-B032-9FF27970EF64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4794D32F-45C5-4EC8-9A5A-D035AF5825D0}
+	EndGlobalSection
+EndGlobal
